@@ -1,0 +1,22 @@
+<?xml version="1.0"?> 
+
+<sharpUpdate> 
+
+    <update appID="TestApp"> 
+
+        <version>2.0.0.0</version> 
+
+       
+			<url>https://www.dropbox.com/home/Mine/SharpUpdate-master/TestApp/bin/Debug/TestApp2.exe</url>
+			
+        <fileName>TestApp2.exe</fileName> 
+
+
+
+        <description>Initial Update</description> 
+
+        <launchArgs></launchArgs> 
+
+    </update> 
+
+</sharpUpdate>
